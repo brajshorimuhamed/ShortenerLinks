@@ -1,0 +1,17 @@
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.deps.json
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.runtimeconfig.json
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.runtimeconfig.dev.json
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.dll
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.csproj.CoreCompileInputs.cache
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.RazorAssemblyInfo.cache
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.RazorAssemblyInfo.cs
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.AssemblyInfoInputs.cache
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.AssemblyInfo.cs
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.RazorTargetAssemblyInfo.cache
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.pdb
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.dll
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.pdb
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\bin\Debug\netcoreapp2.1\ShortenerLinks.Views.dll
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.csproj.CopyComplete
+C:\Users\CC-PC\source\repos\ShortenerLinks\001_src\ShortenerLinks\ShortenerLinks\obj\Debug\netcoreapp2.1\ShortenerLinks.csprojAssemblyReference.cache
